@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathiasvalhovd
-- 📫 How to reach me @mathias.valhovd@gmail.com
+- 📫 How to reach me mathias.valhovd@gmail.com
 
 <!---
 mathiasvalhovd/mathiasvalhovd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
